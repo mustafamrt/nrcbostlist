@@ -20,7 +20,7 @@ exports.run = (client, message, args) => {
 exports.conf = {
     enabled: true,
     guildOnly: false,
-    aliases: ['bansor'],
+    aliases: ['bansor',"ban-sorgu"],
     permLevel: 0
 };
 
