@@ -1,4 +1,4 @@
-Bu altyapı, 
+Bu altpapı, 
 
 Krom.js#0516
 MustafaMert#9440
